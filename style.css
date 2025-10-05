@@ -1,0 +1,17 @@
+h1{
+    color: darkred;
+    background-color: floralwhite;
+}
+h2{
+    color: darkred;
+    background-color: floralwhite;
+}
+ul>li{
+    color: green;
+}
+ol>li{
+    color: blue;
+}
+footer>p{
+    font-style: italic;
+}
